@@ -12,9 +12,7 @@ services:
         id: 0ad3656b-c569-4177-9d98-b8b723cf3396
         label: Pencil
         meshmodel-data:
-          category:
-            metadata: null
-            name: Orchestration & Management
+          c
           components: []
           displayName: Meshery Core
           hostID: 00000000-0000-0000-0000-000000000000
